@@ -1,0 +1,17 @@
+current directory: /Users/admin/Desktop/Practice/reduxDemo/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin23/rbconfig.rb:21: warning: Insecure world writable dir /Users/admin/Library/Android/sdk/tools/bin in PATH, mode 040777
+creating Makefile
+
+current directory: /Users/admin/Desktop/Practice/reduxDemo/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240208-8593-1icnizv sitelibdir\=./.gem.20240208-8593-1icnizv clean
+
+current directory: /Users/admin/Desktop/Practice/reduxDemo/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240208-8593-1icnizv sitelibdir\=./.gem.20240208-8593-1icnizv
+make: Nothing to be done for `all'.
+
+current directory: /Users/admin/Desktop/Practice/reduxDemo/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240208-8593-1icnizv sitelibdir\=./.gem.20240208-8593-1icnizv install
+
+current directory: /Users/admin/Desktop/Practice/reduxDemo/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240208-8593-1icnizv sitelibdir\=./.gem.20240208-8593-1icnizv clean
